@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CM-challenge/static/css/main.a8c993cd.chunk.css",
+    "main.js": "/CM-challenge/static/js/main.fa5610ef.chunk.js",
+    "main.js.map": "/CM-challenge/static/js/main.fa5610ef.chunk.js.map",
+    "runtime~main.js": "/CM-challenge/static/js/runtime~main.a5e88eb2.js",
+    "runtime~main.js.map": "/CM-challenge/static/js/runtime~main.a5e88eb2.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/CM-challenge/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/CM-challenge/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/CM-challenge/index.html",
+    "precache-manifest.d96a7e9840aac998373dfaa00f255c5f.js": "/CM-challenge/precache-manifest.d96a7e9840aac998373dfaa00f255c5f.js",
+    "service-worker.js": "/CM-challenge/service-worker.js",
+    "static/css/main.a8c993cd.chunk.css.map": "/CM-challenge/static/css/main.a8c993cd.chunk.css.map"
+  }
+}
